@@ -7,7 +7,7 @@ export class IndexView extends React.Component {
   render () {
     return (
       <div>
-        Hello! crouch
+        Hello!
       </div>
     );
   }
